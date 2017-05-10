@@ -13,7 +13,7 @@
 @property (strong, nonatomic) NSString *flowerName;
 @property (strong, nonatomic) NSString *motherland;
 @property (assign, nonatomic, readwrite) NSInteger flowerAge;
-
+bugaga lol kek cheburek
 -(void)flowerDescription;
 
 @end
